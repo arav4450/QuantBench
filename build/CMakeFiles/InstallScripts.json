@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aravind/QuantBench/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

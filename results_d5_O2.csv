@@ -1,0 +1,2 @@
+version,N,seconds,gflops,max_error
+blocked_32,1024,0.585614,3.66706,0

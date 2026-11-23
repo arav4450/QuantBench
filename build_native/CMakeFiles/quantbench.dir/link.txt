@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/quantbench.dir/link.d CMakeFiles/quantbench.dir/main.cpp.o -o quantbench

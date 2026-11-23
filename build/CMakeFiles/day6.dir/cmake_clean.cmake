@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/day6.dir/link.d"
+  "CMakeFiles/day6.dir/day6.cpp.o"
+  "CMakeFiles/day6.dir/day6.cpp.o.d"
+  "day6"
+  "day6.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/day6.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,3 @@
+version,N,seconds,gflops,max_error
+blocked_32,1024,0.586324,3.66262,0
+blocked_32_unroll4,1024,0.497205,4.31911,0

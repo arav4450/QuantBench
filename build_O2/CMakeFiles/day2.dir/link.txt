@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/day2.dir/link.d CMakeFiles/day2.dir/day2.cpp.o -o day2
